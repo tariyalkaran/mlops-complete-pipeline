@@ -1,0 +1,6 @@
+[core]
+    remote = karandvcstore1
+['remote "karandvcstore"']
+    url = s3://dvc-s3-project07
+['remote "karandvcstore1"']
+    url = s3://dvc-s3-project07
